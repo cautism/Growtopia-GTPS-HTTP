@@ -6,7 +6,7 @@ Added cooldown for in-game, HTTP Browser.
 Added Anti Flood Protection to avoid attacks from skids.
 Understandable code.
 
-# - Incoming Updates
+# - Upcoming Updates
 Configuration System. (for now)
 
 # - Information
