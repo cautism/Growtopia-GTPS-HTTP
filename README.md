@@ -7,7 +7,9 @@ Added Anti Flood Protection to avoid attacks from skids.
 Understandable code.
 
 # - Upcoming Updates
-Configuration System. (for now)
+Better Rate-Limiting.
+Configuration System.
+IP-Block.
 
 # - Information
 Most parts of code taken from ama6nen's proxy.
