@@ -10,6 +10,7 @@ Understandable code.
 Better Rate-Limiting.
 Configuration System.
 IP-Block.
+Custom-Item Support for ios/android/pc.
 
 # - Information
 Most parts of code taken from ama6nen's proxy.
