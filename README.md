@@ -1,5 +1,6 @@
 # - Growtopia-GTPS-HTTP
 Simple Growtopia Private Server HTTP Web Server by upy#5939.
+Contributed by : Cautism#5731
 
 # - Features
 Added cooldown for in-game, HTTP Browser.
@@ -11,6 +12,7 @@ Better Rate-Limiting.
 Configuration System.
 IP-Block.
 Custom-Item Support for ios/android/pc.
+Anti-Proxy. 
 
 # - Information
 Most parts of code taken from ama6nen's proxy.
